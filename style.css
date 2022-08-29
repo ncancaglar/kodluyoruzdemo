@@ -1,0 +1,13 @@
+.color {
+    background-color: 
+    rgba(197, 171, 220, 0.984);
+}
+.color2 {
+    color: #ffffff;
+    background-color: #fb923c;
+}
+.shadow {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
